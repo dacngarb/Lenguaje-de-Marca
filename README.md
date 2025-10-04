@@ -15,3 +15,6 @@ Elegí:
 <img width="268" height="188" alt="image" src="https://github.com/user-attachments/assets/3eb534af-3dc9-4a55-80eb-1a3f5533d38c" />
 
 
+
+### Películas favoritas
+**Elegí:
