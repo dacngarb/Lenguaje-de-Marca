@@ -29,4 +29,5 @@
   
 * _Como entrenar a tu dragón_
 <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/e9188064-6b8a-4891-a071-941c168b4d79" />
+
 [Picha aquí](https://www.google.com/imgres?q=como%20entrenar%20a%20tu%20dragon&imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FNs6ZEpQ1xS0%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNs6ZEpQ1xS0&docid=bal1pcKMPpDlEM&tbnid=jwxDxuzi-6_ahM&vet=12ahUKEwih07ujmouQAxXz-wIHHVfrMA8QM3oECBwQAA..i&w=1280&h=720&hcb=2&ved=2ahUKEwih07ujmouQAxXz-wIHHVfrMA8QM3oECBwQAA)
