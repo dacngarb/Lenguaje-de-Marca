@@ -8,6 +8,7 @@ Elegí:
 * Ramen
 <img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/f557177e-33cb-4036-9c21-74abd49d2cb6" />
 
+
 * Kebab
 <img width="268" height="188" alt="image" src="https://github.com/user-attachments/assets/3eb534af-3dc9-4a55-80eb-1a3f5533d38c" />
 
