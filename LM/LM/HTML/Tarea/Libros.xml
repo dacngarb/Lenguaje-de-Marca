@@ -1,0 +1,16 @@
+<Libros>
+    <Titulo>Las cronicas de Narnia</Titulo>
+    <Autor>C. S. Lewis</Autor>
+    <Año>Entre 1950 y 1956</Año>
+    <Género>Novela</Género>
+
+    <Titulo>Harry Potter</Titulo>
+    <Autor>J. K. Rowling</Autor>
+    <Año>30 de junio de 1997</Año>
+    <Género>Fantasía</Género>
+
+    <Titulo>El Quijote</Titulo>
+    <Autor>Miguel de Cervantes Saavedra</Autor>
+    <Año>1605</Año>
+    <Género>Sátira, Parodia, Farsa, Recetario, Novela psicológica</Género>
+</Libros>
